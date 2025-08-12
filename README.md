@@ -75,12 +75,3 @@ Zustand
   
 ## Project Structure
 <img width="451" height="295" alt="image" src="https://github.com/user-attachments/assets/49f417c9-ec07-46e8-8c1d-e2fc60b6dfcd" />
-
-  
-## Key Functionality
-1. Transaction CRUD operations
-2. Expense categorization
-3. Financial summary calculations
-4. Data visualization with Chart.js
-5. User authentication system
-6. Responsive mobile-first design
